@@ -1,4 +1,4 @@
-## FOOD ALLERGY TRACKER
+![a warm note to say](https://user-images.githubusercontent.com/17233773/98298339-d7679a00-1f83-11eb-8032-5b90207abd92.png)
 
 
 ### What are we building?
